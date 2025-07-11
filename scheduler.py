@@ -1,5 +1,3 @@
-# scheduler.py
-
 from datetime import datetime, timedelta
 
 class Job:
